@@ -1,0 +1,14 @@
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\bin\Debug\net9.0\FightGame1.exe
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\bin\Debug\net9.0\FightGame1.deps.json
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\bin\Debug\net9.0\FightGame1.runtimeconfig.json
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\bin\Debug\net9.0\FightGame1.dll
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\bin\Debug\net9.0\FightGame1.pdb
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.AssemblyInfoInputs.cache
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.AssemblyInfo.cs
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.csproj.CoreCompileInputs.cache
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.dll
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\refint\FightGame1.dll
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.pdb
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.genruntimeconfig.cache
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\ref\FightGame1.dll
