@@ -12,3 +12,4 @@ C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug
 C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.pdb
 C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.genruntimeconfig.cache
 C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\ref\FightGame1.dll
+C:\Users\frank.farzaneh\Documents\Programmering 1\FightLvl1\FightGame1\obj\Debug\net9.0\FightGame1.sourcelink.json

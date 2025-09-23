@@ -7,18 +7,17 @@ Console.ReadLine();
 
 Console.WriteLine("What is your name, my true gambling warrior?"); //asking for name 
 string GoodName = Console.ReadLine();
-while (GoodName == "") {
-    Console.WriteLine("Please enter a name");
-    GoodName = Console.ReadLine(); 
+while (GoodName.Length < 3 || GoodName.Length > 10)
+{
+    Console.WriteLine("Please enter a name between 3 and 10 characters long"); //if invalid
+    GoodName = Console.ReadLine();
 }
 
-Console.WriteLine("And perhaps what is the name of your one true opp?"); //asking for CPU name 
-string EvilName = Console.ReadLine();
-while (EvilName == "" || EvilName == GoodName) {
-    Console.WriteLine("Please enter a name");
-    EvilName = Console.ReadLine(); 
-}
 
+Console.WriteLine("Your opponent will be one of three competent warriors");
+List<string> EvilNames = new List<string> { "Osukaru", "Glass Joe", "Frankuraru" };
+Random rnd = new Random();
+string EvilName = EvilNames[rnd.Next(EvilNames.Count)];
 
 while (EvilHP > 0 && GoodHP > 0) //Randomly gen hp loss until someone dies
 {
